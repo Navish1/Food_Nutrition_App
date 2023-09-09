@@ -187,7 +187,7 @@ def run():
     **Model :** **`InceptionV3`**
 
     **Dataset :** **`Food101`**
-    
+    \n\n
     
     The Food categories available are:\n
     • apple pie\n
