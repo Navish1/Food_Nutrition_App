@@ -189,108 +189,108 @@ def run():
     **Dataset :** **`Food101`**
     
     
-    The Food categories available are:
-    apple_pie
-    baby_back_ribs
-    baklava
-    beef_carpaccio
-    beef_tartare
-    beet_salad
-    beignets
-    bibimbap
-    bread_pudding
-    breakfast_burrito
-    bruschetta
-    caesar_salad
-    cannoli
-    caprese_salad
-    carrot_cake
-    ceviche
-    cheesecake
-    cheese_plate
-    chicken_curry
-    chicken_quesadilla
-    chicken_wings
-    chocolate_cake
-    chocolate_mousse
-    churros
-    clam_chowder
-    club_sandwich
-    crab_cakes
-    creme_brulee
-    croque_madame
-    cup_cakes
-    deviled_eggs
-    donuts
-    dumplings
-    edamame
-    eggs_benedict
-    escargots
-    falafel
-    filet_mignon
-    fish_and_chips
-    foie_gras
-    french_fries
-    french_onion_soup
-    french_toast
-    fried_calamari
-    fried_rice
-    frozen_yogurt
-    garlic_bread
-    gnocchi
-    greek_salad
-    grilled_cheese_sandwich
-    grilled_salmon
-    guacamole
-    gyoza
-    hamburger
-    hot_and_sour_soup
-    hot_dog
-    huevos_rancheros
-    hummus
-    ice_cream
-    lasagna
-    lobster_bisque
-    lobster_roll_sandwich
-    macaroni_and_cheese
-    macarons
-    miso_soup
-    mussels
-    nachos
-    omelette
-    onion_rings
-    oysters
-    pad_thai
-    paella
-    pancakes
-    panna_cotta
-    peking_duck
-    pho
-    pizza
-    pork_chop
-    poutine
-    prime_rib
-    pulled_pork_sandwich
-    ramen
-    ravioli
-    red_velvet_cake
-    risotto
-    samosa
-    sashimi
-    scallops
-    seaweed_salad
-    shrimp_and_grits
-    spaghetti_bolognese
-    spaghetti_carbonara
-    spring_rolls
-    steak
-    strawberry_shortcake
-    sushi
-    tacos
-    takoyaki
-    tiramisu
-    tuna_tartare
-    waffles
+    The Food categories available are:\n
+    • apple pie\n
+    • baby back ribs\n
+    • baklava\n
+    • beef carpaccio\n
+    • beef tartare\n
+    • beet salad\n
+    • beignets\n
+    • bibimbap\n
+    • bread pudding\n
+    • breakfast burrito\n
+    • bruschetta\n
+    • caesar salad\n
+    • cannoli\n
+    • caprese salad\n
+    • carrot cake\n
+    • ceviche\n
+    • cheesecake\n
+    • cheese plate\n
+    • chicken curry\n
+    • chicken quesadilla\n
+    • chicken wings\n
+    • chocolate cake\n
+    • chocolate mousse\n
+    • churros\n
+    • clam chowder\n
+    • club sandwich\n
+    • crab cakes\n
+    • creme brulee\n
+    • croque madame\n
+    • cup cakes\n
+    • deviled eggs\n
+    • donuts\n
+    • dumplings\n
+    • edamame\n
+    • eggs benedict\n
+    • escargots\n
+    • falafel\n
+    • filet mignon\n
+    • fish and chips\n
+    • foie gras\n
+    • french fries\n
+    • french onion_soup\n
+    • french toast\n
+    • fried calamari\n
+    • fried rice\n
+    • frozen yogurt\n
+    • garlic bread\n
+    • gnocchi\n
+    • greek salad\n
+    • grilled cheese sandwich\n
+    • grilled salmon\n
+    • guacamole\n
+    • gyoza\n
+    • hamburger\n
+    • hot and sour soup\n
+    • hot dog\n
+    • huevos rancheros\n
+    • hummus\n
+    • ice cream\n
+    • lasagna\n
+    • lobster bisque\n
+    • lobster roll sandwich\n
+    • macaroni and cheese\n
+    • macarons\n
+    • miso soup\n
+    • mussels\n
+    • nachos\n
+    • omelette\n
+    • onion rings\n
+    • oysters\n
+    • pad thai\n
+    • paella\n
+    • pancakes\n
+    • panna cotta\n
+    • peking duck\n
+    • pho\n
+    • pizza\n
+    • pork chop\n
+    • poutine\n
+    • prime rib\n
+    • pulled pork sandwich\n
+    • ramen\n
+    • ravioli\n
+    • red velvet cake\n
+    • risotto\n
+    • samosa\n
+    • sashimi\n
+    • scallops\n
+    • seaweed salad\n
+    • shrimp and grits\n
+    • spaghetti bolognese\n
+    • spaghetti carbonara\n
+    • spring rolls\n
+    • steak\n
+    • strawberry shortcake\n
+    • sushi\n
+    • tacos\n
+    • takoyaki\n
+    • tiramisu\n
+    • tuna tartare\n
+    • waffles\n
     """)
     
     st.title("Food Recognition and Nutrition Estimation 🍅")
